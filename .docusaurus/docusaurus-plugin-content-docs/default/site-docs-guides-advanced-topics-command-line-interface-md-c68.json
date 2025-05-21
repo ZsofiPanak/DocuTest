@@ -1,0 +1,20 @@
+{
+  "id": "guides/advanced-topics/command-line-interface",
+  "title": "command-line-interface",
+  "description": "title: CLI lehetőségek",
+  "source": "@site/docs/guides/advanced-topics/command-line-interface.md",
+  "sourceDirName": "guides/advanced-topics",
+  "slug": "/guides/advanced-topics/command-line-interface",
+  "permalink": "/docs/guides/advanced-topics/command-line-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/advanced-topics/command-line-interface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "api-integration",
+    "permalink": "/docs/guides/advanced-topics/api-integration"
+  }
+}

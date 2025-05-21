@@ -52,9 +52,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Zsófi DocuSite",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "DocuSite Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -63,6 +63,12 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Tutorial"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "guidesSidebar",
+          "position": "left",
+          "label": "Guides"
         },
         {
           "to": "/blog",
@@ -85,7 +91,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/tutorials/intro"
             }
           ]
         },

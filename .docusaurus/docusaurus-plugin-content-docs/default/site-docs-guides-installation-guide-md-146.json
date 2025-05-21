@@ -1,0 +1,23 @@
+{
+  "id": "guides/installation-guide",
+  "title": "installation-guide",
+  "description": "title: Telepítési útmutató",
+  "source": "@site/docs/guides/installation-guide.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/installation-guide",
+  "permalink": "/docs/guides/installation-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/installation-guide.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "guidesSidebar",
+  "next": {
+    "title": "configuration-tips",
+    "permalink": "/docs/guides/configuration-tips"
+  }
+}
