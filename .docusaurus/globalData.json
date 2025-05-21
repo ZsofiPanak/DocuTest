@@ -8,75 +8,101 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "tutorials/create-a-page",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "guides/advanced-topics/api-integration",
+              "path": "/docs/guides/advanced-topics/api-integration",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/advanced-topics/command-line-interface",
+              "path": "/docs/guides/advanced-topics/command-line-interface",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/configuration-tips",
+              "path": "/docs/guides/configuration-tips",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/deployment-guide",
+              "path": "/docs/guides/deployment-guide",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/installation-guide",
+              "path": "/docs/guides/installation-guide",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "tutorials/congratulations",
+              "path": "/docs/tutorials/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "test",
-              "path": "/docs/test",
+              "id": "tutorials/create-a-blog-post",
+              "path": "/docs/tutorials/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "tutorials/create-a-document",
+              "path": "/docs/tutorials/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "tutorials/create-a-page",
+              "path": "/docs/tutorials/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "tutorials/deploy-your-site",
+              "path": "/docs/tutorials/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "tutorials/intro",
+              "path": "/docs/tutorials/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "tutorials/manage-docs-versions",
+              "path": "/docs/tutorials/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "tutorials/markdown-features",
+              "path": "/docs/tutorials/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "tutorials/test",
+              "path": "/docs/tutorials/test",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "tutorials/translate-your-site",
+              "path": "/docs/tutorials/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
+              "id": "/category/haladó-témák",
+              "path": "/docs/category/haladó-témák",
+              "sidebar": "guidesSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/tutorials/create-a-page",
+                "label": "tutorials/create-a-page"
+              }
+            },
+            "guidesSidebar": {
+              "link": {
+                "path": "/docs/guides/installation-guide",
+                "label": "guides/installation-guide"
               }
             }
           }
