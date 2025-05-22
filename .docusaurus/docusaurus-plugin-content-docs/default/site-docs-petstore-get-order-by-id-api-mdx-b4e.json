@@ -1,0 +1,35 @@
+{
+  "id": "petstore/get-order-by-id",
+  "title": "Find purchase order by ID.",
+  "description": "For valid response try integer IDs with value <= 5 or > 10. Other values will generate exceptions.",
+  "source": "@site/docs/petstore/get-order-by-id.api.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/get-order-by-id",
+  "permalink": "/docs/petstore/get-order-by-id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-order-by-id",
+    "title": "Find purchase order by ID.",
+    "description": "For valid response try integer IDs with value <= 5 or > 10. Other values will generate exceptions.",
+    "sidebar_label": "Find purchase order by ID.",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV21v3DYM/iscv7QBHDsv3boZ27BsaYfDhqXYpR+GJCh0Nn1Wa0uqROdyO/i/D5TtxGmCtQWGAQP26e4kPiL5SHzI2yGrdcD8AgNbT3iVYEmh8NqxtgZzfGk9XKtGl+ApOGsCAfstaMO0Jg+L0wAbzbXYdATffgdfgvXwPRwepHDGNflhR6yaBtZkyCsmoJuCoouQYoLWyaq2ZlFijmviM1+S/3G7KDFBp7xqiclLmDs0qiXM0YpF3NcSplNc44exL07BVhAtgWvFYIjKAGxhRVARFzXJAZ7ed9pTiTn7jhIMRU2twnyHvHXia0wWE6ysbxUPS189w76/EvjASxDE0cGBfNyPI3RFQSFUXQO3mWKChTVMhsVeOdfoIm5kb4OAdg/DsKu3VLAw4uUY1oNLXX5KqAnSjWpdQ5gfHvQJOuLFZwO/+fr586M+wfedMqx5+1H88dEc/7xPMNTanSqmGTSw12Y9R5aKaZ91SygIVtyFx+zvsxzfDCwH65lXIdfb63jVZLpWHrtrVBEXZnslNfqa5B1c9XI5gr4X58rahpTBvk/wpm1kZ/4YJVbWHF2eDQt9cu9mR9D/F/vfv1gxffZYrS/MoJaLUwid3D2VGG2fPbQdEjOWobKdiXYlVapr+KHta0M3jgqmEsh76/85/Shs+cil9Qm2FIJaP7bXz0XzYjjhzv7qjq4XMdR+4Kslru0o8FHXucYcs9h4ssh0thtlvccEA/nrSfQ732CONbMLeZY54gg6TsNGrdfkU20z5XR2fYyiyIGKzmveLoWBIckJ8kZ14vWOE/ktb7lq7Gaoulao1AOtHdfW6z8jsa8/HkM8LZtQwkkorBsi2HjNlAsMc2xtqastyC/QBra286CKwnaGY0NS5WQp34f9uDAwqZx+847mVaqc/oW2mEwPd7IY22NNahIkbSobgeMVLYfw4dWYEOzDmSNz8moBx+nBg2I8r3UAHUBBiGUoOFhG4DJeGKxUoBKsAa5pfhQER4WuxmeaAvxhOyiUgUqbEmzH0MopamU7vjRTWIrhYuL8jumrpw/X9lJYDE651r4EzWOrlSFAlh0xxBQT2NCTa4Kw0XEGkIlADEoKei3x+MAQBUQV9ReXZgrU2A3U1DjoAug26kvESYKbmuK0o/lJgNUWWvVOmzUUtTJrCnceKm10DEpzoEamk2lPqii9NOcyqGzUNhnmKhFLiTcG8KFTbcaJqklAmRLoxtlAEGxLU9KGNlCR4s5TfGpnJ8vj9NJcmqUYdYFkKmm0eRfyS7MPF+f1/Eo9ORs0W7+9Y3ytue5WaWHbifx9qb3p+1QYe7fHBdv5Ygh4ln8lmc+dfbaHbNXYVdaqwOSz4IusVdpkngZ/IbOOjHI63aq22cMEmXwbzip5prqgWS3PKjjaZKO4qiKqALVKN0NNMan2hztzUclGF2QCzZrGiVNFTXAUq+e+cm02m1TF7dT6dTZiQ/br4qcXvy1f7B+lB2nNbSMHi/gNNXeYHqSHR7LmbOBWmZmzl1I8rvNFrQKNs+5qC4vT9MPS3d01jH9nqh+liemGM9cobSSDyMduFP/pX0cyNtoE82muv0qwtoHFZrcTSXntm76X5fcd+S3mF1cJXiuv1Upk7GKHpQ7yvcS8Uk2gv8n+6e9j89qDT/yL8Ggqk/QakdnIB+aICUZlvv2D0svQMeqvhDnsnhTC1Az3oINLI7vtmD+/OMe+/wvjtLJC",
+    "sidebar_class_name": "get api-method",
+    "info_path": "docs/petstore/swagger-petstore-openapi-3-0",
+    "custom_edit_url": null
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Returns pet inventories by status.",
+    "permalink": "/docs/petstore/get-inventory"
+  },
+  "next": {
+    "title": "Find pet by ID.",
+    "permalink": "/docs/petstore/get-pet-by-id"
+  }
+}

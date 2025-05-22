@@ -1,0 +1,35 @@
+{
+  "id": "petstore/update-user",
+  "title": "Update user resource.",
+  "description": "This can only be done by the logged in user.",
+  "source": "@site/docs/petstore/update-user.api.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/update-user",
+  "permalink": "/docs/petstore/update-user",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-user",
+    "title": "Update user resource.",
+    "description": "This can only be done by the logged in user.",
+    "sidebar_label": "Update user resource.",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV0tv3DYQ/issL4kBreRXe9ApbuCD2yIJsvahWC+CWWkkMZFIhhxZ3i7034uhpF350bgBemtukvjNUzPfDHeSoPQyXcnWo5PrSOboM6csKaNlKq8r5UUGWhhdb8UGRW40is1WUIWiNmWJuVBasHAsI2ksOmDRq1ymsrU5EN6w4khacNAgoWNrO6mhQYZ4dOExkortWaBKPnaCAYIqIKERc0EmOII1EuYykg6/tsphLlNyLUbSZxU2INOdpK1lI56c0qXs+/UARk+/mnzLiIeGboLDArTAe+UJNYXIOEKO15Nx7GlmNJ+xPFhbqyyEnHz2rGT31L7ZfMaMOAeOE0QKPZ+qfIZRmrAMiSqMa4CGT7+cy0jiPTS2RpmeHPfRIWNP4pshJVVD3vtIFsp5eveixG+m0gyv4V+hoUHPcGxA1d/GfjaVfhNwcWYaFrLgfWdc/m25k9Oz858DvDL6BX/2WE7PkoBa/2xyH/1v/rkj+mHiz04fJL7vI3nfhDhnhcv2SFFwYMh2Hz2oiFHkR0H8KIixIBZd1y1Y76J1NerM5Jj/KJH/d4kw0KG3RvvhJ58eHz+dTb7NMvS+aGuxn7Ks7Pw58AZyMU66AXP+FBMmmzYkCtPqnGE5FtDW9Mxc1HhvMSPMBTpn3H83A7kBnpnUkWzQeyifO+vnE381aDjg14f0XgZX+yHBDVJleCmxbfCC94xUJpyEZDf1Ry8j6dHdTUtK62qZyorI+jRJLFLYAM5i30FZoouVScCq5O5M8mrhMWudou2SYx/Cm0Q+Qcv2Dtngdy6Xojbd0NgNJ1ENCW2pMk79FVJ687IPQVsySXE2fGbs4EHnFGHKYjKVjclVsRX8xjvN1rROQJaZVlPYoyCfkPw8nIcPQw7Bqk9fcDuLA6z6Hbcymip8QozbXIWQjyzIhfHxsHtdTm0yUNrJ8Zyk9kz0gIgGtpmTzcgoe0J5zBpz0hi7fU8M+/d585/07HhhQoRjFS2HPIsPY+bFQry3qC8+XImz+PgJPYSFWXkBwocIWU4sg+AyVJbYgMdcmGGlnKkS3mKmirGTYiH+NG1YvQulc2FaEg1rgY1p6VZPbgGJ1VQch5JYv3767SgWV4NRqpTLhaKRRYQpwmeLNKy4kejw1R0K3ynKqmHjZkCOXpXsj/MkwFpnIKt+utWTo9p0osLaitYL1Vhn7jDIcYBdhVTxKk2vPN8fGviidCmyCnSJ/mChUFoFpxR5rAth3HTGjR7f6mu+B3SwjUSnqBKkmuBvcOCxUaVFiRod1JEAnQu8t8aj8KbBKWiNnSgQqHUYeuL9xfIsvtW3esmg1iMTbq30F5/e6oVYXVfzX+rQGq/IuO0h46Wiqt1wAU7JXzBJTM9TBx/t1XnTumxweBZ/wZHPjX23hWRTm03SgCd0iXdZ0oDSicPBnk+MRQ1WxVto6iMZSULX+PcFl6nKcEY6M6oJmGTkf8gCXU3dB1YRQvPmAA+7gcpQe5yNwQsLWYXiNHTPQ4rtui6GcBwbVyajrE/+uHp7+W55uTiNj+OKmpoVM0sPPXcSH8cnp2HqG08N6Jmx8UoXht0Uevy4a3eHcfa9N96RCAnvKbE1qDCTQ1C7cciMV+tIpnuGW0eyMp74bLdjPrhxdd/z568tuq1MV+tI3oFTsGEOWu1krjw/5zItoPb4Df9ffxyH45F44d78rOsTsWsm8TuoW36TkQy8f+Doft1HE72zf8Px28GLxTUrOYi/vAH30aTiIsvQ0j8Ih+2CR+1+mn+4uZaR3Iy3+SZsE3KmOJq/pKt13/d/A7KXzE4=",
+    "sidebar_class_name": "put api-method",
+    "info_path": "docs/petstore/swagger-petstore-openapi-3-0",
+    "custom_edit_url": null
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Update an existing pet.",
+    "permalink": "/docs/petstore/update-pet"
+  },
+  "next": {
+    "title": "Uploads an image.",
+    "permalink": "/docs/petstore/upload-file"
+  }
+}

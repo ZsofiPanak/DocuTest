@@ -1,0 +1,35 @@
+{
+  "id": "petstore/get-user-by-name",
+  "title": "Get user by user name.",
+  "description": "Get user detail based on username.",
+  "source": "@site/docs/petstore/get-user-by-name.api.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/get-user-by-name",
+  "permalink": "/docs/petstore/get-user-by-name",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "get-user-by-name",
+    "title": "Get user by user name.",
+    "description": "Get user detail based on username.",
+    "sidebar_label": "Get user by user name.",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV0tv3DYQ/ivTuSQGZMmv9qBT3MII3BZJ0Y0Phb0IuNJoxUQiGXLk9Xah/14MJe0jXiQp2lt7kkR+w5n5OC9tkNUyYH6PXSCP8wRLCoXXjrU1mONrYpAdKImVbmChApVgTVw0qqUUE7SOvBKB2xJzXBLfBfI/rt+oljBBp7xqicmLmg2KEOY4yWOCWhQ5xTV+rv1dTSAg4FoxGKIyAFtYEFTERU1lCneBoi3nUFkPTIG1WWKCnj512lOJOfuOEgxFTa3CfIO8dmJAYC/Ivp8LODhrAgXZvzg7k8ehJaErCgqh6hrYeosJFtYwGRa8cq7RRdzIPgQR2jxXahcfqGAhxcsxrAeVutzDaMO0JI8JVta3ioelH64wQXpSrWsI8/OzPtlR+MypPSRyTXId2CdYaR/4zVclfra1EXijvgmtWgoCp1bp5svYD7Y2ryIuLWwrQk6FsLK+/LLc+cXl1fcRXlvzFXu2WKFnxoq7cJTcw/sVimBEHxJ/eXFAfN8n+NRGP/ciWfSx5mjAwHafHETEKPJ/QPx3A0KAV8dqy615VI0utyUVQieRQyVGiavnEtE4Yxkq25kIK6lSXcNHoIaeHBVMJZD31v97Rauw5RHm+wRbCkEtj+31+3X5fjhhh5/vKLuJpvYDaS1xbcfOEvsJ15hjJnRlm4m0HhMM5B+nNtP5BnOsmV3Is8wRB7aeLtOwUssl+VTbTDmdPV6iNIBARec1r2fi++DeJPJedaJvx4Z8SwhUjV0NydoKiXogtOPaev1npPTu6zbE07JJStgIhXWDBSuvmXIRwxxbW+pqDfIF2sDadh5UUdjOcOx2qpyQ8j7sx4WBQ+X0+4+03vNDOf0LrTGZonZCjP24JlWOdUybykbB8XJmg/nw2+gQnMJbR+b6t1u4TM+ONHEdQAdQEGLOiBzMouAsXthuqOCa9o+C4KjQ1RigKcAftoNCGai0KcF2DK2coha24wczmaUY7ifOd0zPXz5fO0nhdlDKtfYlaB47O9gqLjtiiC4msKIXjwRhpePcIVOIAEoKein2+MCgnPNWFfV3D2Yy1NgV1NQ46ALo1nn7SFFOHFzVxDV50PwiwGINrfqozRKKWpklhZ2GShsdjdIcqKlAxpxhT/InfTDvZDhaqXUCK801sG6jvdGAz5VqA0sy5FWTgDIl0JOzgSDYlianDa2gIsWdpxhqb69nl+mDeTAzAXWBZAhqtPkY8gdzCvcypO2u1JOzQbP16x3jS811t5AKP5F/Krk3vU+JcbI9LtjOF4PBe/7HAW9f2d/WkC0au8haFZh8FnyRtUqbzNOgL2TWkVFOp2vVNieYIJNvw9tKwlQXtJfLexkcMdlYVlURq8DY+SSnmFT7agePbVQXZALtdYxrp4qa4CJmz2HlWq1WqYrbqfXLbJQN2a+3P928md2cXqRnac1tIwdL8Rty7jw9S88vYoO0gVtl9pRtR/rFenhOY/xB2m52beLbfgLGssL0xJlrlI4TQ/RlM5bs8R8jwXw7qMwTrG1g2dts5Ng73/S9LH/qyK8xv58n+Ki8VgspPfcbLHWQ9xLzSjWBvmD1y9/HVnMC/+A/4qhbUwk1Ui4fVdPJFyYYK+xuDOvnfTIVUrF92L4uCnK8J/isCUtH2ja91zfvsO//AhiisW0=",
+    "sidebar_class_name": "get api-method",
+    "info_path": "docs/petstore/swagger-petstore-openapi-3-0",
+    "custom_edit_url": null
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Find pet by ID.",
+    "permalink": "/docs/petstore/get-pet-by-id"
+  },
+  "next": {
+    "title": "Logs user into the system.",
+    "permalink": "/docs/petstore/login-user"
+  }
+}

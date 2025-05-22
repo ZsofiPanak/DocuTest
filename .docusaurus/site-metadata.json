@@ -31,6 +31,16 @@
       "type": "package",
       "name": "@docusaurus/theme-classic",
       "version": "3.7.0"
+    },
+    "docusaurus-plugin-openapi-docs": {
+      "type": "package",
+      "name": "docusaurus-plugin-openapi-docs",
+      "version": "4.4.0"
+    },
+    "docusaurus-theme-openapi": {
+      "type": "package",
+      "name": "docusaurus-theme-openapi-docs",
+      "version": "4.4.0"
     }
   }
 }

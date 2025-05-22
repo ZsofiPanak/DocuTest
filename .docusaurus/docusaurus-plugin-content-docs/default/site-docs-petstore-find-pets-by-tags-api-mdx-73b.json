@@ -1,0 +1,35 @@
+{
+  "id": "petstore/find-pets-by-tags",
+  "title": "Finds Pets by tags.",
+  "description": "Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.",
+  "source": "@site/docs/petstore/find-pets-by-tags.api.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/find-pets-by-tags",
+  "permalink": "/docs/petstore/find-pets-by-tags",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "find-pets-by-tags",
+    "title": "Finds Pets by tags.",
+    "description": "Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.",
+    "sidebar_label": "Finds Pets by tags.",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztV0tv3DYQ/issL2kAWfKj6EGnuqlbGH3EgO1DYS+CWWkkMaFIhhztervQfy+Gkryy14smaXvLZVei5vHx47y4lQR1kPmddEhykcgSQ+GVI2WNzOXvnSblNAqWEgUYsUThvF2pEkuxVtSIwrYtiIAOPBCWIpBXpg6puA1R7STh39P4eyYq6wVhIGXqVCbSOvTAvi5LmctKmfIKKfy4uWFQiWSbLRJ6RriVBlqU+YA4kYoBfuzQb+Rz2KwuyIpKaUIvlizh8WOnPJYyr0AHTCQ+OG1LlDn5DhMZigZbkPlW0saxG/AeWFERtmG2PmxQ9n2/YKvBWRMwCpweH/PfUyyhKwoMoeq0eNytTGRhDaEhlgfntCrih+x9YKXtJ6DZ7eduICaRrrFkb70OfJCjnl2+x4L4o2f3pAaoqpzZVoawRi8TWVnfAg1L338nmSRonUaZnxz3yXgAz5mYScnS1rVC2SeyAMLa+s1M/j/D8klQfrJ1kH2fyIdWs+QYPY+4+kSSoij6Zra2I3Gf/NHS2oNzzDxHTn8wQp57nixz6CRj3n2pi39F5UH69tkiqOdE3cAgFAioe3HLT4PfIYlBVigjqEERyHqOVTRdy6ELK1AaljrGL5pysBKsLuViHw4XqRmcK35lqXkKjRpfM+hrBn3NoE/MIJb77qXudWlWoFXJzVusQHcxMEusoNO0L31r8MFhwWMAem/9F/S5A8dSxE69x3YiWwwB6gMnMc/waGEnv9hxcBGhjiwELDqvaBMHDocU2X4HHTVsZO0VYc7LcaKAcnhe8CjQIjWWx5gaI35gFZk5pIwHm8ehJqBfTRNN57XMZUPkQp5lk7uzNKyhrtGnymbgVLY6k+xhwnbNpA28PEO4o5HfTzlwtV0Pgd0y+2o4iY4a69Vf8Sxu/xlDtJZNWkxjKKwbEMwoyWVrS1VtBL9xuG5s5wUUhe0MPSEsj8/D97jQj2VcvfuA84IHTv2KnNVj+E4S4/jXIJTo41krU9moOJ7q9QBfXI0bEkfirUNzfnUpztLj/ZGxUUGoIECEWP5YT1xHxet4YGIJAUthhyScmRLBYaGqMbJTIf60XRyV+dSF7Ui0bAWWtqN7M8ECEncT5zumF9/ur71OxeXglBrlS6FonCKFreLyUCKsx0Ss8dUKRVgrKhoseQRmgRKDqhmPDyTAOW+haL65NxNQY9eiQe0EF5mWx3uMerzBdYPUoBeKXgWx3IgWPihTi6IBU2PYeaiUURGUooC6EjznD9848dJ7c9MAiTVskuHaQKqNeCOA506VETUa9KATAaYU+OBsQBFsi9OmDa5FhUCdxxhqb8+vz9J7c2+uWagLyAO3VuZDyO/Nkbi7aeZH6tHZoMj6zY7xWlHTLdPCthP5R5x70/OUGK8fzQXb+WIAPNt/vOHMnX22h2yp7TJrIRD6LPgia0GZzOPgL2TWoQGn0g20+rVMJKFvw9uKw1QVOMvlWQZHmWysx1DEKoAtKD3kFCG0P+zEubBqVaAJOGsd5w6KBsVpzJ6nlWu9XqcQP6fW19moG7LfLt9c/HF9cXSaHqcNtZoNc/Ebcu4kPU5PTuPIYAO1YGbOflamDDF5Oeq41afPc3a7ay7/+0V1LEeED5Q5Dcow6sjBdqz0ww06kbNav0hkYwPxt+2Wy8et133Py8O1lTtAqQL37t219OAWX7rUvggrVtDpljw07VzGBrICr+KkkN8t+mSqngxj0DkvCnQ009pr2U8a3S8XNzKRhzrP+MDWp2JuNjPbu8Yhdo1hQh/7i+yTA7qf2a0Gm7wSh8dDVh9b5KRRezD0Lsr2i77v/waPE+Tj",
+    "sidebar_class_name": "get api-method",
+    "info_path": "docs/petstore/swagger-petstore-openapi-3-0",
+    "custom_edit_url": null
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Finds Pets by status.",
+    "permalink": "/docs/petstore/find-pets-by-status"
+  },
+  "next": {
+    "title": "Returns pet inventories by status.",
+    "permalink": "/docs/petstore/get-inventory"
+  }
+}

@@ -249,81 +249,161 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-be3": {
+  "/docs-a63": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-3f6": {
+  "/docs-348": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-5d0": {
+  "/docs-4b0": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/haladó-témák-3ae": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-halado-temakbac-d29"
   },
-  "/docs/guides/advanced-topics/api-integration-f21": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/guides/advanced-topics/api-integration-2d6": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-guides-advanced-topics-api-integrationafb-aed"
   },
-  "/docs/guides/advanced-topics/command-line-interface-9f2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/guides/advanced-topics/command-line-interface-de5": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-guides-advanced-topics-command-line-interfacec-68-3b5"
   },
-  "/docs/guides/configuration-tips-701": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/guides/configuration-tips-818": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-guides-configuration-tips-048-679"
   },
-  "/docs/guides/deployment-guide-107": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/guides/deployment-guide-259": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-guides-deployment-guidef-81-15b"
   },
-  "/docs/guides/installation-guide-e2f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/guides/installation-guide-80e": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-guides-installation-guide-146-339"
   },
-  "/docs/tutorials/congratulations-357": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/petstore/add-pet-94f": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-add-pet-86-c-e50"
+  },
+  "/docs/petstore/create-user-e3b": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-create-userdd-6-0d2"
+  },
+  "/docs/petstore/create-users-with-list-input-23f": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-create-users-with-list-inpute-01-a67"
+  },
+  "/docs/petstore/delete-order-6f6": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-delete-order-177-921"
+  },
+  "/docs/petstore/delete-pet-e5b": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-delete-petc-7-a-a99"
+  },
+  "/docs/petstore/delete-user-c5f": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-delete-user-8-ab-667"
+  },
+  "/docs/petstore/find-pets-by-status-f55": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-find-pets-by-status-66-c-4c6"
+  },
+  "/docs/petstore/find-pets-by-tags-c80": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-find-pets-by-tags-73-b-300"
+  },
+  "/docs/petstore/get-inventory-7d9": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-get-inventoryf-65-0ee"
+  },
+  "/docs/petstore/get-order-by-id-7b0": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-get-order-by-idb-4-e-10c"
+  },
+  "/docs/petstore/get-pet-by-id-e44": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-get-pet-by-id-9-c-4-c75"
+  },
+  "/docs/petstore/get-user-by-name-0d4": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-get-user-by-name-68-b-488"
+  },
+  "/docs/petstore/login-user-f0b": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-login-user-55-a-8fe"
+  },
+  "/docs/petstore/logout-user-0a2": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-logout-user-19-d-cc4"
+  },
+  "/docs/petstore/place-order-b5f": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-place-order-945-b88"
+  },
+  "/docs/petstore/swagger-petstore-openapi-3-0-bbc": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-swagger-petstore-openapi-3-0530-015"
+  },
+  "/docs/petstore/update-pet-1af": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-update-petf-21-73b"
+  },
+  "/docs/petstore/update-pet-with-form-fd0": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-update-pet-with-form-4-b-8-920"
+  },
+  "/docs/petstore/update-user-607": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-update-user-7-ed-9e5"
+  },
+  "/docs/petstore/upload-file-2ff": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
+    "content": "content---docs-petstore-upload-fileeaf-039"
+  },
+  "/docs/tutorials/congratulations-977": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-congratulations-5-bf-350"
   },
-  "/docs/tutorials/create-a-blog-post-7fb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/create-a-blog-post-ab4": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-create-a-blog-postbcf-352"
   },
-  "/docs/tutorials/create-a-document-9ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/create-a-document-b39": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-create-a-document-26-a-511"
   },
-  "/docs/tutorials/create-a-page-ed7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/create-a-page-db7": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-create-a-page-8-f-9-ca9"
   },
-  "/docs/tutorials/deploy-your-site-d99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/deploy-your-site-dc7": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-deploy-your-site-0-f-6-dd1"
   },
-  "/docs/tutorials/intro-e5f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/intro-c16": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-introc-15-3fa"
   },
-  "/docs/tutorials/manage-docs-versions-016": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/manage-docs-versions-3ce": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-manage-docs-versions-803-275"
   },
-  "/docs/tutorials/markdown-features-5a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/markdown-features-305": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-markdown-featuresc-17-305"
   },
-  "/docs/tutorials/test-ffc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/test-05c": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-test-847-5fd"
   },
-  "/docs/tutorials/translate-your-site-081": {
-    "__comp": "__comp---theme-doc-item-178-a40",
+  "/docs/tutorials/translate-your-site-f54": {
+    "__comp": "__comp---themes-api-item-7-e-1-ca0",
     "content": "content---docs-tutorials-translate-your-site-8-a-1-c93"
   },
   "/-e5f": {

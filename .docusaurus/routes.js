@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'be3'),
+    component: ComponentCreator('/docs', 'a63'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3f6'),
+        component: ComponentCreator('/docs', '348'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5d0'),
+            component: ComponentCreator('/docs', '4b0'),
             routes: [
               {
                 path: '/docs/category/haladó-témák',
@@ -132,91 +132,211 @@ export default [
               },
               {
                 path: '/docs/guides/advanced-topics/api-integration',
-                component: ComponentCreator('/docs/guides/advanced-topics/api-integration', 'f21'),
+                component: ComponentCreator('/docs/guides/advanced-topics/api-integration', '2d6'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
                 path: '/docs/guides/advanced-topics/command-line-interface',
-                component: ComponentCreator('/docs/guides/advanced-topics/command-line-interface', '9f2'),
+                component: ComponentCreator('/docs/guides/advanced-topics/command-line-interface', 'de5'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
                 path: '/docs/guides/configuration-tips',
-                component: ComponentCreator('/docs/guides/configuration-tips', '701'),
+                component: ComponentCreator('/docs/guides/configuration-tips', '818'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
                 path: '/docs/guides/deployment-guide',
-                component: ComponentCreator('/docs/guides/deployment-guide', '107'),
+                component: ComponentCreator('/docs/guides/deployment-guide', '259'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
                 path: '/docs/guides/installation-guide',
-                component: ComponentCreator('/docs/guides/installation-guide', 'e2f'),
+                component: ComponentCreator('/docs/guides/installation-guide', '80e'),
                 exact: true,
                 sidebar: "guidesSidebar"
               },
               {
+                path: '/docs/petstore/add-pet',
+                component: ComponentCreator('/docs/petstore/add-pet', '94f'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/create-user',
+                component: ComponentCreator('/docs/petstore/create-user', 'e3b'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/create-users-with-list-input',
+                component: ComponentCreator('/docs/petstore/create-users-with-list-input', '23f'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/delete-order',
+                component: ComponentCreator('/docs/petstore/delete-order', '6f6'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/delete-pet',
+                component: ComponentCreator('/docs/petstore/delete-pet', 'e5b'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/delete-user',
+                component: ComponentCreator('/docs/petstore/delete-user', 'c5f'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/find-pets-by-status',
+                component: ComponentCreator('/docs/petstore/find-pets-by-status', 'f55'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/find-pets-by-tags',
+                component: ComponentCreator('/docs/petstore/find-pets-by-tags', 'c80'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/get-inventory',
+                component: ComponentCreator('/docs/petstore/get-inventory', '7d9'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/get-order-by-id',
+                component: ComponentCreator('/docs/petstore/get-order-by-id', '7b0'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/get-pet-by-id',
+                component: ComponentCreator('/docs/petstore/get-pet-by-id', 'e44'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/get-user-by-name',
+                component: ComponentCreator('/docs/petstore/get-user-by-name', '0d4'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/login-user',
+                component: ComponentCreator('/docs/petstore/login-user', 'f0b'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/logout-user',
+                component: ComponentCreator('/docs/petstore/logout-user', '0a2'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/place-order',
+                component: ComponentCreator('/docs/petstore/place-order', 'b5f'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/swagger-petstore-openapi-3-0',
+                component: ComponentCreator('/docs/petstore/swagger-petstore-openapi-3-0', 'bbc'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/update-pet',
+                component: ComponentCreator('/docs/petstore/update-pet', '1af'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/update-pet-with-form',
+                component: ComponentCreator('/docs/petstore/update-pet-with-form', 'fd0'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/update-user',
+                component: ComponentCreator('/docs/petstore/update-user', '607'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
+                path: '/docs/petstore/upload-file',
+                component: ComponentCreator('/docs/petstore/upload-file', '2ff'),
+                exact: true,
+                sidebar: "apiSidebar"
+              },
+              {
                 path: '/docs/tutorials/congratulations',
-                component: ComponentCreator('/docs/tutorials/congratulations', '357'),
+                component: ComponentCreator('/docs/tutorials/congratulations', '977'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorials/create-a-blog-post', '7fb'),
+                component: ComponentCreator('/docs/tutorials/create-a-blog-post', 'ab4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/create-a-document',
-                component: ComponentCreator('/docs/tutorials/create-a-document', '9ef'),
+                component: ComponentCreator('/docs/tutorials/create-a-document', 'b39'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/create-a-page',
-                component: ComponentCreator('/docs/tutorials/create-a-page', 'ed7'),
+                component: ComponentCreator('/docs/tutorials/create-a-page', 'db7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/deploy-your-site',
-                component: ComponentCreator('/docs/tutorials/deploy-your-site', 'd99'),
+                component: ComponentCreator('/docs/tutorials/deploy-your-site', 'dc7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/intro',
-                component: ComponentCreator('/docs/tutorials/intro', 'e5f'),
+                component: ComponentCreator('/docs/tutorials/intro', 'c16'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorials/manage-docs-versions', '016'),
+                component: ComponentCreator('/docs/tutorials/manage-docs-versions', '3ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/markdown-features',
-                component: ComponentCreator('/docs/tutorials/markdown-features', '5a0'),
+                component: ComponentCreator('/docs/tutorials/markdown-features', '305'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/test',
-                component: ComponentCreator('/docs/tutorials/test', 'ffc'),
+                component: ComponentCreator('/docs/tutorials/test', '05c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tutorials/translate-your-site',
-                component: ComponentCreator('/docs/tutorials/translate-your-site', '081'),
+                component: ComponentCreator('/docs/tutorials/translate-your-site', 'f54'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

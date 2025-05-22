@@ -1,0 +1,35 @@
+{
+  "id": "petstore/update-pet-with-form",
+  "title": "Updates a pet in the store with form data.",
+  "description": "Updates a pet resource based on the form data.",
+  "source": "@site/docs/petstore/update-pet-with-form.api.mdx",
+  "sourceDirName": "petstore",
+  "slug": "/petstore/update-pet-with-form",
+  "permalink": "/docs/petstore/update-pet-with-form",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "update-pet-with-form",
+    "title": "Updates a pet in the store with form data.",
+    "description": "Updates a pet resource based on the form data.",
+    "sidebar_label": "Updates a pet in the store with form data.",
+    "hide_title": true,
+    "hide_table_of_contents": true,
+    "api": "eJztWN1v2zYQ/1c4vrQBFClNij3oaUHbAcGGJpgTDENiBGfpLLGVSJY82fEM/e/DUZItx06WrHvsU2TyPn6878taEhReprfSIslpJHP0mVOWlNEylTc2B0IvQFgk4dCbxmUoZuAxF0YLKlHMjatFDgSxjKSx6ICZL3KZyiawXyH9qaj81bhaRtKCgxoJHWtdSw01ypS1X+Qykoq1WqBSPoZy8VGYeYBBJZDQiLkXZMQMRaeG2R1+a5TDXKbkGoykz0qsQaZrSSvLepQmLNDJSDJsoO7o5/eybaMNmPCnx/KtQbfaA/MZanwBnD31npzSxY4yT0CNf17dJNB8l8IpG8dboz16vj89OeE/u3p8k2Xo/bypxMaRMpKZ0YSamB6srVQWLpIvnpnWI6Vb898ORrSlIXPjKs/B1YMysy+YEV86VkOqg6TylzgqkvgAta1Qpu9O2qg34+MHj6hkbopCoWwjmQFhYdxqRP+/YXkRlI+m8Ox9+VBXTNnHwAZXG0lSFEg/jM62RtxKB+eAI6WXtHRg7RD4bSQVYe0PgdnVPEiWLaPqasF/VfFdpnzSfPvWIijGhrqGjqhPpANP3g1yTqGOVqiugnkyjmMVdVNz6MICVAWzKsQv6ryT4k2Vy+k+HC6cIzhX/LONdjKlZ/iRKD8S5Uei7CYKk70/1Isu9AIqlQulbRP4cpxDU9E+5Y3GB4sZYS7QOeNe07Ge90hm8kOGjmSN3kPxhBPGyR0kbOmn2+d/ClDbzgIes8YpWoWRyCIFQ99DQyULWTpFmPJxGHEg776n3NRrpNLwrGWNDw/g2SmViUVK1mGqatkl6BbDxNW4SqayJLI+TZJB2Vnsl1AU6GJlErAqWZxJlj8gm7DJOqs8wrc1Iv8+5YitzLKL6Jptrzo/NFQap/4Onrj5dwxBWjJwYRhujO0QjAySytrkar7iySjE6co0TkCWmUbTjrnS8N3dh4PO9GDV/VccVzqw6jfkdO7jdqDoR7QSIUcXPK303ATG3qeTDr646h8kjsWlRX1+dSHO4pO9BLsulReKp2sf6h7ziUlgnASH7Q7aI1HCW8zUvI/rWIi/TCMy0GKudC5MQ6JmKTAzDd3pARaQuB1svrX09O3+2VEsLjqlVCqXC0X9NMgzKB93tcE4jMQS3yxQ+KWirMScR1ImyNGrgvE4TwKsdQay8qc7PQDVZilKrKzg6lJbZxYY+PiByxKpRCcUvfFithI1fFW6EFkJukC/1TBXWgVQijxWc2HccMdpF9/pa56Ul7CKxFJRKUjVAW8A8Fip0qJAjQ6qSIDOBT5Y41F40036TKZxKeYI1DgMoXZ5PjmL7/SdnjBR45EH50rprz6908fi9rocu9ShNV6RcautxQtFZTOLM1MPxj/m3Bu+h8Q42ojrFzAGPHr/nF8+VvZqDcmsMrOkBk/oEu+ypAalk2Hh84mxqMGqeAV1dSQjSehqfznnMFUZjnJ5lMGBJumrMWShCmANqupyihDqX7bkXFYrlaH2OOoZ5xayEsVpyJ7dyrVcLmMI17FxRdLz+uT3iw+fPk8+HZ/GJ3FJdcWCufh1OfcuPonfnYZZwXiqQY+U7W67457Xxc/OpruTyuttx3n9ztyXHcIHSmwFSjO68NZ1X8677TySabcmTyNZcrVPb+V6zXJvXNW2fNytj1zlc+W5MecynUPl8Rm8L9xlD6IMhXOYYBdQNUwiebt9uf4XL7fPINgs0VsMU/7hVJhOXmeQt3/0DfxIvOifDgdxDb1Er8aoBrydH9tpGw3thCF2d+dZhpZGXHsTzE7fv7qcXMtIPtWL+w8WfxDStpWKbavcmJU7bnDnQd5X9u9OJp+EOfopqZuhYeAoHGi6D7TttG3bfwCMumgE",
+    "sidebar_class_name": "post api-method",
+    "info_path": "docs/petstore/swagger-petstore-openapi-3-0",
+    "custom_edit_url": null
+  },
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Place an order for a pet.",
+    "permalink": "/docs/petstore/place-order"
+  },
+  "next": {
+    "title": "Update an existing pet.",
+    "permalink": "/docs/petstore/update-pet"
+  }
+}

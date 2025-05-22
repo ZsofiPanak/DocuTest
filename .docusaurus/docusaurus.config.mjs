@@ -27,6 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
+          "docItemComponent": "@themes/ApiItem",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -49,6 +50,27 @@ export default {
       }
     ]
   ],
+  "plugins": [
+    [
+      "docusaurus-plugin-openapi-docs",
+      {
+        "id": "openapi",
+        "docsPluginId": "classic",
+        "config": {
+          "petstore": {
+            "specPath": "openapi/petstore-api.yaml",
+            "outputDir": "docs/petstore",
+            "sidebarOptions": {
+              "groupPathsBy": "tag"
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "themes": [
+    "docusaurus-theme-openapi-docs"
+  ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
@@ -69,6 +91,12 @@ export default {
           "sidebarId": "guidesSidebar",
           "position": "left",
           "label": "Guides"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "myApiSidebar",
+          "label": "Petstore API",
+          "position": "left"
         },
         {
           "to": "/blog",
@@ -377,8 +405,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
