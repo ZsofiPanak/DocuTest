@@ -36,106 +36,6 @@
               "sidebar": "guidesSidebar"
             },
             {
-              "id": "petstore/add-pet",
-              "path": "/docs/petstore/add-pet",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/create-user",
-              "path": "/docs/petstore/create-user",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/create-users-with-list-input",
-              "path": "/docs/petstore/create-users-with-list-input",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/delete-order",
-              "path": "/docs/petstore/delete-order",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/delete-pet",
-              "path": "/docs/petstore/delete-pet",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/delete-user",
-              "path": "/docs/petstore/delete-user",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/find-pets-by-status",
-              "path": "/docs/petstore/find-pets-by-status",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/find-pets-by-tags",
-              "path": "/docs/petstore/find-pets-by-tags",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/get-inventory",
-              "path": "/docs/petstore/get-inventory",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/get-order-by-id",
-              "path": "/docs/petstore/get-order-by-id",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/get-pet-by-id",
-              "path": "/docs/petstore/get-pet-by-id",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/get-user-by-name",
-              "path": "/docs/petstore/get-user-by-name",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/login-user",
-              "path": "/docs/petstore/login-user",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/logout-user",
-              "path": "/docs/petstore/logout-user",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/place-order",
-              "path": "/docs/petstore/place-order",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/swagger-petstore-openapi-3-0",
-              "path": "/docs/petstore/swagger-petstore-openapi-3-0",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/update-pet",
-              "path": "/docs/petstore/update-pet",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/update-pet-with-form",
-              "path": "/docs/petstore/update-pet-with-form",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/update-user",
-              "path": "/docs/petstore/update-user",
-              "sidebar": "apiSidebar"
-            },
-            {
-              "id": "petstore/upload-file",
-              "path": "/docs/petstore/upload-file",
-              "sidebar": "apiSidebar"
-            },
-            {
               "id": "tutorials/congratulations",
               "path": "/docs/tutorials/congratulations",
               "sidebar": "tutorialSidebar"
@@ -205,12 +105,7 @@
                 "label": "guides/installation-guide"
               }
             },
-            "apiSidebar": {
-              "link": {
-                "path": "/docs/petstore/swagger-petstore-openapi-3-0",
-                "label": "Introduction"
-              }
-            }
+            "apiSidebar": {}
           }
         }
       ],
